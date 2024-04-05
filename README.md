@@ -6,9 +6,10 @@
 
 ## MY FORMATIONS
 <div style="display: flex; justify-content: center; align-items: center">
- <img width="95px" height="30px" src="./assets/ignite.png" title="ignite"/>
- <img width="95px" height="30px" src="./assets/senai.png" title="senai"/>
- <img width="95px" height="30px" src="./assets/alura.png" title="alura"/>
+ <img width="95px" height="30px" src="./assets/ignite.png" title="Ignite Rocket Seat- Concluído - Desenvolvimento de Projetos de Mercado"/>
+ <img width="95px" height="30px" src="./assets/senai.png" title="Senai - Interrompido - Análise e Desenvolvimento de Sistemas"/>
+ <img width="95px" height="30px" src="./assets/pucpr.png" title="Pucpr - Cursando Física"/>
+ <img width="95px" height="30px" src="./assets/unisul.png" title="Unisul - Cursando Eng. Computação"/>
 </div>
   
 ## MY SKILLS
