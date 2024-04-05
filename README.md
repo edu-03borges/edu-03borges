@@ -1,9 +1,8 @@
-## Hello World! Eu sou o Eduardo Borges
-<div>
- <a href="https://www.github.com/edu-03borges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-03borges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-03borges&layout=compact&langs_count=16&theme=dark"/>
-</div>
+## Hello World! I'm Eduardo Borges
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edu-03borges&show_icons=true&theme=light" />
+</a>
 
 ## MY FORMATIONS
 <div style="display: flex; justify-content: center; align-items: center">
